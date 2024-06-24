@@ -20,6 +20,11 @@ Deployed to: https://reco-app-4e9028a3ad63.herokuapp.com/
 
 The aim of this project is to build a model that will improve the recommendations given to the users given their past reviews and ratings.
 
+**Directories:**
+
+- The notebook folder includes the dataset, Jupyter notebook, and all generated pickle assets.
+- The flask folder contains the Flask application for the final recommendation system, which was also deployed to Heroku.
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Models trained

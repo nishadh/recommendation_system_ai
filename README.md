@@ -9,6 +9,7 @@ Deployed to: https://reco-app-4e9028a3ad63.herokuapp.com/
 ## Table of Contents
 
 - [General Info](#general-information)
+- [Models trained](#models-trained)
 - [Technologies Used](#technologies-used)
 - [Conclusions](#conclusions)
 - [Acknowledgements](#acknowledgements)

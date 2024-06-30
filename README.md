@@ -4,7 +4,7 @@
 
 ## Heroku App
 
-Deployed to: https://reco-app-4e9028a3ad63.herokuapp.com/
+Deployed to: https://reco-app-4e9028a3ad63.herokuapp.com/ (Removed. Project is in flask folder)
 
 ## Table of Contents
 
